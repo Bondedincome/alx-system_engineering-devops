@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$cp /tmp/*.html /alx-system_engineering-devops/0x00-shell_basics"
+cp ls -X . .. /tmp/*.html /alx-system_engineering-devops/0x00-shell_basics  
