@@ -1,0 +1,4 @@
+#!/bin/bash
+#my first script
+
+echo "$(cd "$(dirname -- "$1")" >/dev/null; pwd -P)$(basename -- "$1")"
