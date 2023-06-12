@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -mmin +3000 | sort -it
