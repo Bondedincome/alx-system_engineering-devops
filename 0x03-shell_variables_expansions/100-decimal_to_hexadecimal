@@ -1,0 +1,2 @@
+#!/bin/bash
+export DECIMAL=$((2#$DECIMAL)) | echo $((2#$DECIMAL))
